@@ -1,0 +1,11 @@
+﻿  5.28.c
+C:\Users\k7089\OneDrive\桌面\高階程式設計\HW3.2\HW3.2\HW3.2\5.28.c(16,8): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+C:\Users\k7089\OneDrive\桌面\高階程式設計\HW3.2\HW3.2\HW3.2\5.28.c(25,2): error C2065: 'ain': 未宣告的識別項
+C:\Users\k7089\OneDrive\桌面\高階程式設計\HW3.2\HW3.2\HW3.2\5.28.c(25,2): error C2143: 語法錯誤: 遺漏 ';' (在 'while' 之前)
+  5.29.c
+C:\Users\k7089\OneDrive\桌面\高階程式設計\HW3.2\HW3.2\HW3.2\5.29.c(13,8): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  5.34.c
+C:\Users\k7089\OneDrive\桌面\高階程式設計\HW3.2\HW3.2\HW3.2\5.34.c(15,8): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  5.35.c
+C:\Users\k7089\OneDrive\桌面\高階程式設計\HW3.2\HW3.2\HW3.2\5.35.c(13,8): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
